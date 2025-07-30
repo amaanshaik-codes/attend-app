@@ -1,0 +1,5 @@
+{
+  "name": "Attend",
+  "description": "An elegant attendance system to dynamically manage students, log attendance for any date, and generate shareable reports. Features data import/export, light/dark themes, and persists data locally.",
+  "requestFramePermissions": []
+}
